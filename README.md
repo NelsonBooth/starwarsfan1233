@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @starwarsfan1233
+- 👋 Hi, I’m Nelson Booth
 - 👀 I’m interested in creating my own website or/and app.
 - 🌱 I’m currently learning Python programming.
 - 💞️ I’m looking to collaborate on various Python and other programming language projects.
